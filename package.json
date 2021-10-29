@@ -71,7 +71,7 @@
     "po2json": "^1.0.0-alpha",
     "raw-loader": "^0.5.1",
     "sass-loader": "^8.0.2",
-    "sass-resources-loader": "^2.0.1",
+    "sass-resources-loader": "^2.2.4",
     "sizzle": "^2.1.0",
     "stdio": "^0.2.7",
     "strict-loader": "^1.1.0",
